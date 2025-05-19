@@ -2,6 +2,9 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+      <FullPath>C:\Лабораторные работы\Программирование\2 семестр\lab0\2_sem\x64\Debug\common.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
       <FullPath>C:\Лабораторные работы\Программирование\2 семестр\lab0\2_sem\x64\Debug\lab1.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

@@ -22,11 +22,11 @@ public:
 	~Stack() {
 		delete[] data;
 	}
-	void push(T) {
+	void push(T elem) {
 		if (topIndex + 1 >= capacity) {
 			resize(capacity + 10);
 		}
-		data[++topIndex] = value;
+		data[++topIndex] = elem;
 	}
 	T pop() {
 		if (topIndex < 0) {
