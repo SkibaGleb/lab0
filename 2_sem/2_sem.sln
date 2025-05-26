@@ -14,6 +14,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab1", "lab1\lab1.vcxproj", "{4A05E580-878A-45AE-9459-CF685D35F2AB}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab2", "lab2\lab2.vcxproj", "{03FE4589-C265-4069-A14A-C705EB165424}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EBE98A30-71E6-474B-8810-00901604E189} = {EBE98A30-71E6-474B-8810-00901604E189}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab3", "lab3\lab3.vcxproj", "{EEBBADF5-830E-49DB-802D-35552466B357}"
 EndProject

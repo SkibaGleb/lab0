@@ -20,7 +20,7 @@ private:
 
 public:
 	~Stack() {
-		delete[] data;
+		clear();
 	}
 	void push(T elem) {
 		if (topIndex + 1 >= capacity) {
