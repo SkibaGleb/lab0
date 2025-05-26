@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB4C3BD3-FD4B-4F1F-A925-FD04E492AC89}|..\\lab2\\lab2.vcxproj|C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE98A30-71E6-474B-8810-00901604E189}|common\\common.vcxproj|C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\common\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBE98A30-71E6-474B-8810-00901604E189}|common\\common.vcxproj|solutionrelative:common\\queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DC83384F-4B67-49B1-87FA-F6175521D59E}|2_sem.vcxproj|C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\2_sem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC83384F-4B67-49B1-87FA-F6175521D59E}|2_sem.vcxproj|solutionrelative:2_sem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +29,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "queue.h",
+              "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\common\\queue.h",
+              "RelativeDocumentMoniker": "common\\queue.h",
+              "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\common\\queue.h",
+              "RelativeToolTip": "common\\queue.h",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAJEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T23:05:25.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "lab2.cpp",
+              "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\lab2\\lab2.cpp",
+              "RelativeDocumentMoniker": "..\\lab2\\lab2.cpp",
+              "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\lab2\\lab2.cpp",
+              "RelativeToolTip": "..\\lab2\\lab2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T23:05:05.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "2_sem.cpp",
               "DocumentMoniker": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\2_sem.cpp",
               "RelativeDocumentMoniker": "2_sem.cpp",
               "ToolTip": "C:\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\lab0\\2_sem\\2_sem.cpp",
               "RelativeToolTip": "2_sem.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T12:48:59.359Z",
               "EditorCaption": ""
